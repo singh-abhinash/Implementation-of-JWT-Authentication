@@ -11,6 +11,10 @@ import org.springframework.security.core.userdetails.UserDetails;
 
 import java.util.Collection;
 
+/**
+ * Created by Abhinash Singh - 2024
+ */
+
 @Entity
 @AllArgsConstructor
 @NoArgsConstructor

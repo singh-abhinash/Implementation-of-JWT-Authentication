@@ -22,6 +22,10 @@ import org.springframework.security.core.userdetails.UserDetailsService;
 import org.springframework.web.bind.annotation.*;
 import lombok.Builder;
 
+/**
+ * Created by Abhinash Singh - 2024
+ */
+
 @RestController
 @RequestMapping("/auth")
 public class AuthController {

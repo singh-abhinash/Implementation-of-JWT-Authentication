@@ -12,6 +12,10 @@ import org.springframework.stereotype.Component;
 import java.io.IOException;
 import java.io.PrintWriter;
 
+/**
+ * Created by Abhinash Singh - 2024
+ */
+
 @Component
 public class JWTAuthenticationEntryPoint implements AuthenticationEntryPoint {
     private Logger logger = LoggerFactory.getLogger(JWTAuthenticationEntryPoint.class);

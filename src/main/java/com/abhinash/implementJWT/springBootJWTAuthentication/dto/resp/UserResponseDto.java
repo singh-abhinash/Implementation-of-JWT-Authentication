@@ -3,6 +3,10 @@ package com.abhinash.implementJWT.springBootJWTAuthentication.dto.resp;
 import lombok.Getter;
 import lombok.Setter;
 
+/**
+ * Created by Abhinash Singh - 2024
+ */
+
 @Getter
 @Setter
 public class UserResponseDto {

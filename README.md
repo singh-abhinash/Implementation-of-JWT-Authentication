@@ -18,10 +18,9 @@ This repository demonstrates JWT Authentication implementation in a Spring Boot 
 
 ## Prerequisites
 
-- Java 23
-- Maven
-- MySQL 8.0.33 or later
-- MySQL WorkBench
+- Java
+- MySQL
+- MySQL-WorkBench
 
 ## Getting Started
 
@@ -50,3 +49,5 @@ This repository demonstrates JWT Authentication implementation in a Spring Boot 
 ## Contributing
 
 Contributions are welcome! Feel free to open issues and pull requests.
+
+**HAPPY CODING!! - ABHINASH SINGH**
